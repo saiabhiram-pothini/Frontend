@@ -19,7 +19,7 @@ function Nav2() {
           <div className="collapse navbar-collapse" id="navbar1">
             <ul className="navbar-nav nav nav-fill w-100">
               <li className="nav-item text-white">
-                <a className="nav-link text-white" href="apple.com">
+                <a className="nav-link text-white" href="/stu">
                   Home
                 </a>
               </li>
